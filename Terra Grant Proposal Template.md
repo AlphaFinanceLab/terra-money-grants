@@ -3,156 +3,159 @@
 ### **FINAL DOCUMENT MUST BE SUBMITTED IN THE FORM OF A GITHUB REPO FORMATTED IN MARKDOWN**
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a > (such as this one) can be removed.See the Terra Grants Process on how to submit a proposal.
-> 
-- **Project Name:** Name of your project (e.g. Fantasy Investar)
-- **Team Name:** Legal name of your team (e.g. Fantary Investar)
-- **Payment Address:** Terra Address
+
+- **Project Name:** Alpha Homora v2 on Terra
+- **Team Name:** Alpha Finance Lab
+- **Payment Address:** terra1e2e73c5gm00uk39hzgf46ajvedmwm59w6y5xem
 
 > ⚠️ The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.
-> 
 
 ## Project Overview
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
+**Alpha Finance Lab** came up with the leverage yield farming concept and launched Alpha Homora as the first leverage yield farming product, allowing users to take leverage positions when yield farm and provide liquidity to gain higher return for the same initial capital amount.
 
-If this is an application for a follow-up grant (the continuation of an earlier, successful Terra grant), please provide name and/or pull request of said grant on the first line of this section.
+**Alpha Homora V2** is the first product to use LP token as collateral and the first product to implement and use a concept of collateral credit and borrow credit (different from LTV content used in other lending protocols).
 
-### Overview
+- **Alpha Homora v2 Terra** will be the **first and only** leverage yield farming platform on Terra.
+- Yield farmers and liquidity providers can get even higher 1) farming APY and 2) trading fees APY from taking on leveraged yield farming positions.
+- Lenders can lend many assets, e.g. UST, MIR, ANC, mAssets, and more, to earn high lending interest rates from leveraged yield farmers/liquidity providers borrowing these assets to open leveraged positions
+- Liquidators can earn some bounty by liquidating positions that are at 100% debt ratio.
 
-Please provide the following:
+**An indication of how your project relates to / integrates into Terra.**
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Terra.
-- An indication of why your team is interested in creating this project.
+Alpha Finance Lab developed **Alpha Homora v2 on Terra**, the first leverage yield farming platform with auto-compound features. Users will be able to gain higher yields through leverage while being able to maintain lower risks. The platform offers various strategies for Terra-native assets like UST, MIR, ANC, mAssets. On top of that, Alpha Homora v2 Terra would be integrated with **Mars Protocol** to facilitate assets available for borrowing.
+
+**An indication of why your team is interested in creating this project.**
+
+- Alpha Finance Lab has seen great success and high adoption rate from Alpha Homora and Alpha Homora v2 launches on other chains (Ethereum, Binance Smart Chain, and Avalanche) and believe that there is also market demand for leverage yield farming on Terra chain.
+- Terra has a very strong community and the spirit to strengthen its ecosystem. Alpha Homora v2 Terra will become a new use case for UST as well as Terra native assets with great potential to expand and integrate with other protocols in the future.
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+We’re developing Alpha Homora V2 on Terra so the concept and core functionalities are the same as on ETH and AVAX which you can look for the example in the following urls :
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is *not* or will *not* provide or implement
-    - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+- https://alphafinancelab.gitbook.io/alpha-homora-v2/
+- https://homora-v2.alphafinance.io
 
 ### Ecosystem Fit
 
-Help us locate your project in the Terra landscape and what problems it tries to solve by answering each of these questions:
+**Where and how does your project fit into the ecosystem?**
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Terra ecosystem?
-    - If so, how is your project different?
-    - If not, are there similar projects in related ecosystems?
+Alpha Homora v2 will bring leverage yield farming to DeFi space on Terra blockchain network. This will help answer undressed demand for higher yields from both asset holders (who then can lend) and yield farmers/ liquidity providers. Moreover, with Alpha Finance Lab’s know-how from product development and previous success, the team is certain that the product would fit into Terra with high user adoption.
+
+**Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?**
+
+- DeFi users (both Alpha Homora users from other chain and DeFi users in Terra)
+- Other protocols interest in partnership because we care not only about end users but also other builders
+
+**What need(s) does your project meet?**
+Every product from Alpha Finance Lab aims to maximize returns for users while offering a synergistic solution to minimize downside exposure, and Alpha Homora v2 on Terra is no exception. Using LP token as collateral and implementing a concept of collateral credit and borrow credit, not LTV, would make the product more secure.
+
+**Are there any other projects similar to yours in the Terra ecosystem?**
+<span style="color:red;">**No**</span>, but there are a few other leverage yield farming platforms available on different networks like Alpaca Finance on BSC, Tulip Protocol on Solana etc. However, unlike both protocols mentioned, Alpha Finance Lab is the only one offering cross-chain DeFi products.
 
 ## Team
 
 ### Team members
 
 - Name of team leader
+  - Tascha Punyaneramitdee
 - Names of team members
+  - Nipun Pitimanaaree
+  - Arin Trongsantipong
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. wagmi@terra.money)
-- **Website:**
+- **Contact Name:**
+  - Tascha Punyaneramitdee
+  - Nipun Pitimanaaree
+  - Arin Trongsantipong
+
+* **Contact Email:**
+
+  - tascha@alphafinance.io
+  - nipun@alphafinance.io
+  - arin@alphafinance.io
+
+* **Website:** https://alphafinance.io
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line.
-- **Registered Legal Entity:** Name of your registered legal entity, if available.
+- **Registered Address:** ​​Portcullis Chambers, 4th Floor, Ellen Skelton Building, 3076 Sir Francis Drake Highway Road Town, Tortola VG1110, British Virgin Islands
+- **Registered Legal Entity:** Alpha Finance Lab Limited
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+**Alpha Finance Team:**
+Since the launch of Alpha Homora, the first leverage yield farming platform, in October 2020, Alpha Finance Team aims to bring a superior value proposition compared to existing solutions in the market and never ceases to stop improving.
 
-If anyone on your team has applied for a grant to Terra previously, please list the name of the project and legal entity here.
+Despite the success of Alpha Homora, the team analyzed feedback received and later on launched the improved version, Alpha Homora v2 (now available on Ethereum and Avalanche) with unique functionalities to elevate user experience. To further establish Alpha Homora v2 as a go-to leverage yield farming/ liquidity providing protocol, the team has expanded the current product to cover various chains including Ethereum, BSC and Avalanche achieving TVL of over $1 billion dollar.
+
+As the space has evolved, the team saw the opportunity and potential in derivatives and came up with the second product, AlphaX, an on-chain derivative trading platform. Furthermore, with goals to encourage other builders to jointly drive the blockchain space, Alpha Finance Lab launched Alpha Launchpad, an incubator program targeting to bring accrual value to Alpha Stakers.
 
 ### Team Code Repos
 
-- [https://github.com/](https://github.com/)<your_organisation>
-- [https://github.com/](https://github.com/)<your_organisation>/<project_1>
-- [https://github.com/](https://github.com/)<your_organisation>/<project_2>
+- https://github.com/AlphaFinanceLab
+- https://github.com/spectrumprotocol
+- https://github.com/spectrumprotocol/alpha-contracts
+- https://github.com/spectrumprotocol/alpha-frontend
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- [https://github.com/](https://github.com/)<team_member_1>
-- [https://github.com/](https://github.com/)<team_member_2>
+- https://github.com/n1punp
+- https://github.com/arintrongs
+- https://github.com/spectrum-lumiere
+- https://github.com/hikari042
 
 ### Team LinkedIn Profiles (if available)
 
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_1>
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_2>
+- https://www.linkedin.com/in/tascha-panpan
+- https://www.linkedin.com/in/nipunpitimanaaree
+- https://www.linkedin.com/in/arintrongs
 
 ## Development Status
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+We're at the last stage of the development, the codes in the following repos include both contract and frontend parts.
 
-- links to improvement proposals or RFP (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from Terra
-- previous interface iterations, such as mock-ups and wireframes.
+- https://github.com/spectrumprotocol/alpha-contracts
+- https://github.com/spectrumprotocol/alpha-frontend
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Terra. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. *Treat it as a contract*; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested *per milestone*.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> If any of your deliverables is based on somebody else's work, make sure you work and publish under the terms of the license of the respective project and that you highlight this fact in your milestone documentation and in the source code if applicable! Teams that submit others' work without attributing it will be immediately terminated.
-> 
-
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):** Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k for initial grants* and $100k for follow-up grants. (e.g. 12,000 USD). This and the costs for each milestone need to be in USD; if the grant is paid out in Luna, the amount will be calculated according to the exchange rate at the time of payment.
+### Milestone 1 - AHv2 Terra Development (on-going)
 
-### Milestone 1 Example — Implement Terra Modules
+Alpha Finance Lab developed contract, back-end and front-end components for Alpha Homora v2 on Terra.
 
-- **Estimated duration:** 1 month
-- **FTE:** 2
-- **Costs:** 8,000 USD
+**Estimated Duration:** 3 months (Nov 2021-Jan 2022)
+**FTE** : 9
+**Total Cost:** $20,000 (Development Cost)
 
-[Example Milestone Table](https://github.com/terramoney/terra-money-grants/blob/main/Untitled%20Database%20076bcbe63d9348558de4e6688af1d89e.csv)
+### Milestone 2 - Joint Test + Audit
 
-### Milestone 2 Example — Additional features
+After development, Alpha will send the contract to Mars for a review and submit the project for contract audit. Right now, the team is in contact with Oak Security and Halborn.
 
-- **Estimated Duration:** 1 month
-- **FTE:** 1
-- **Costs:** 4,000 USD
+**Estimated Duration:** 1.5 month
+**FTE:** 3
+**Costs:** $180,000 (Audit Cost)
 
-...
+### Milestone 3 - Mars Protocol Integration+ Prelaunch+Public Launch
+
+**FTE:** On-going monitor, maintenance and growth strategies from Alpha Finance Team
+
+At launch, Alpha Homora v2 Terra will be integrated with Mars Protocol by applying for asset credit lines. This would help enable more available assets to borrow for opening positions. Mars protocol plans to initially launch with UST and Luna lending options, but would later expand to offer more assets. At launch, the team plans to drive a marketing launch campaign by co-working with Mars Protocol.
 
 ## Future Plans
 
-Please include here
+### Short-term Plan
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- Offer in-demand strategies
+- Offer high yield strategies for borrowers (i.e. leverage yield farmers) and high lending interest rates for lenders
+- Bring in Alpha Homora Users/ community from other chains to Terra blockchain network
 
-## Additional Information
+### Long-term Plan
 
-**How did you hear about the Grants Program?** Terra Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- Wheter there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+- Make Alpha Homora v2 Terra the go-to platform for leverage yield farming/ liquidity providing on Terra
+- Become a platform where builders and other Terra protocols would be inclined to integrate with
+- Become strong fundamental for Terra growing DeFi users/community
